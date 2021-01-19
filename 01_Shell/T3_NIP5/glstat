@@ -1,0 +1,2224 @@
+                                                                         
+                         ls-dyna smp.123264 s           date 01/12/2018
+
+
+ dt of cycle       1 is controlled by shell             91 of part         1
+
+ time...........................   0.00000E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   0.00000E+00
+ internal energy................   2.00000E-20
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   0.00000E+00
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.00000E-20
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............   0.00000E+00
+ global y velocity..............   0.00000E+00
+ global z velocity..............   0.00000E+00
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle      61 is controlled by shell             91 of part         1
+
+ time...........................   9.92778E-02
+ time step......................   1.65463E-03
+ kinetic energy.................   1.38161E-07
+ internal energy................   6.98107E-09
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.45152E-07
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.45142E-07
+ total energy / initial energy..   9.99929E-01
+ energy ratio w/o eroded energy.   9.99929E-01
+ global x velocity..............  -7.69619E-10
+ global y velocity..............   4.01670E-13
+ global z velocity..............  -1.03515E-03
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     121 is controlled by shell             91 of part         1
+
+ time...........................   1.98556E-01
+ time step......................   1.65463E-03
+ kinetic energy.................   7.88030E-07
+ internal energy................   8.70228E-08
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.75114E-07
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.75053E-07
+ total energy / initial energy..   9.99930E-01
+ energy ratio w/o eroded energy.   9.99930E-01
+ global x velocity..............  -1.11798E-08
+ global y velocity..............   1.12130E-12
+ global z velocity..............  -2.22145E-03
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     182 is controlled by shell             91 of part         1
+
+ time...........................   2.99488E-01
+ time step......................   1.65463E-03
+ kinetic energy.................   2.46260E-06
+ internal energy................   3.81255E-07
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.84400E-06
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.84385E-06
+ total energy / initial energy..   9.99948E-01
+ energy ratio w/o eroded energy.   9.99948E-01
+ global x velocity..............  -5.19060E-08
+ global y velocity..............   1.91532E-12
+ global z velocity..............  -3.60044E-03
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     242 is controlled by shell             91 of part         1
+
+ time...........................   3.98766E-01
+ time step......................   1.65463E-03
+ kinetic energy.................   5.71024E-06
+ internal energy................   1.05268E-06
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.76318E-06
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.76293E-06
+ total energy / initial energy..   9.99963E-01
+ energy ratio w/o eroded energy.   9.99963E-01
+ global x velocity..............  -1.47929E-07
+ global y velocity..............   5.94638E-12
+ global z velocity..............  -5.12999E-03
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     303 is controlled by shell             91 of part         1
+
+ time...........................   4.99698E-01
+ time step......................   1.65463E-03
+ kinetic energy.................   1.13783E-05
+ internal energy................   2.30417E-06
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.36828E-05
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.36825E-05
+ total energy / initial energy..   9.99973E-01
+ energy ratio w/o eroded energy.   9.99973E-01
+ global x velocity..............  -3.43270E-07
+ global y velocity..............   1.39741E-11
+ global z velocity..............  -6.86076E-03
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     363 is controlled by shell             91 of part         1
+
+ time...........................   5.98976E-01
+ time step......................   1.65463E-03
+ kinetic energy.................   2.00048E-05
+ internal energy................   4.34199E-06
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.43473E-05
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.43468E-05
+ total energy / initial energy..   9.99978E-01
+ energy ratio w/o eroded energy.   9.99978E-01
+ global x velocity..............  -7.23202E-07
+ global y velocity..............   2.96976E-11
+ global z velocity..............  -8.70550E-03
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     424 is controlled by shell             91 of part         1
+
+ time...........................   6.99908E-01
+ time step......................   1.65463E-03
+ kinetic energy.................   3.26278E-05
+ internal energy................   7.74464E-06
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   4.03731E-05
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.03724E-05
+ total energy / initial energy..   9.99983E-01
+ energy ratio w/o eroded energy.   9.99983E-01
+ global x velocity..............  -1.34293E-06
+ global y velocity..............   3.46536E-12
+ global z velocity..............  -1.08288E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     484 is controlled by shell             91 of part         1
+
+ time...........................   7.99186E-01
+ time step......................   1.65463E-03
+ kinetic energy.................   4.96425E-05
+ internal energy................   1.28172E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.24607E-05
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.24597E-05
+ total energy / initial energy..   9.99984E-01
+ energy ratio w/o eroded energy.   9.99984E-01
+ global x velocity..............  -2.23835E-06
+ global y velocity..............   2.28668E-11
+ global z velocity..............  -1.31709E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     544 is controlled by shell             91 of part         1
+
+ time...........................   8.98464E-01
+ time step......................   1.65463E-03
+ kinetic energy.................   7.22317E-05
+ internal energy................   1.98158E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.20486E-05
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.20475E-05
+ total energy / initial energy..   9.99988E-01
+ energy ratio w/o eroded energy.   9.99988E-01
+ global x velocity..............  -3.41026E-06
+ global y velocity..............   1.88097E-11
+ global z velocity..............  -1.56794E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     605 is controlled by shell             91 of part         1
+
+ time...........................   9.99396E-01
+ time step......................   1.65463E-03
+ kinetic energy.................   1.01995E-04
+ internal energy................   2.88691E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.30865E-04
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.30864E-04
+ total energy / initial energy..   9.99990E-01
+ energy ratio w/o eroded energy.   9.99990E-01
+ global x velocity..............  -5.07186E-06
+ global y velocity..............   5.31328E-11
+ global z velocity..............  -1.83430E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     665 is controlled by shell             91 of part         1
+
+ time...........................   1.09867E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.38982E-04
+ internal energy................   4.02307E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.79215E-04
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.79213E-04
+ total energy / initial energy..   9.99991E-01
+ energy ratio w/o eroded energy.   9.99991E-01
+ global x velocity..............  -7.21314E-06
+ global y velocity..............  -9.78545E-11
+ global z velocity..............  -2.10125E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     726 is controlled by shell             91 of part         1
+
+ time...........................   1.19961E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.85588E-04
+ internal energy................   5.44710E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.40061E-04
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.40059E-04
+ total energy / initial energy..   9.99992E-01
+ energy ratio w/o eroded energy.   9.99992E-01
+ global x velocity..............  -9.87917E-06
+ global y velocity..............  -1.05503E-10
+ global z velocity..............  -2.37757E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     786 is controlled by shell             91 of part         1
+
+ time...........................   1.29888E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.41631E-04
+ internal energy................   7.07474E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   3.12380E-04
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.12378E-04
+ total energy / initial energy..   9.99993E-01
+ energy ratio w/o eroded energy.   9.99993E-01
+ global x velocity..............  -1.30675E-05
+ global y velocity..............   3.03983E-10
+ global z velocity..............  -2.65687E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     847 is controlled by shell             91 of part         1
+
+ time...........................   1.39982E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.10589E-04
+ internal energy................   8.98231E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   4.00414E-04
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.00412E-04
+ total energy / initial energy..   9.99995E-01
+ energy ratio w/o eroded energy.   9.99995E-01
+ global x velocity..............  -1.67806E-05
+ global y velocity..............   2.64002E-10
+ global z velocity..............  -2.95322E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     907 is controlled by shell             91 of part         1
+
+ time...........................   1.49909E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.91920E-04
+ internal energy................   1.11750E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   5.03673E-04
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.03670E-04
+ total energy / initial energy..   9.99995E-01
+ energy ratio w/o eroded energy.   9.99995E-01
+ global x velocity..............  -2.11619E-05
+ global y velocity..............  -1.18255E-10
+ global z velocity..............  -3.25647E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle     967 is controlled by shell             91 of part         1
+
+ time...........................   1.59837E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   4.88481E-04
+ internal energy................   1.37227E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.25711E-04
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.25708E-04
+ total energy / initial energy..   9.99996E-01
+ energy ratio w/o eroded energy.   9.99996E-01
+ global x velocity..............  -2.64653E-05
+ global y velocity..............  -1.17472E-10
+ global z velocity..............  -3.57296E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1028 is controlled by shell             91 of part         1
+
+ time...........................   1.69930E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   6.04030E-04
+ internal energy................   1.66997E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.71030E-04
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.71027E-04
+ total energy / initial energy..   9.99996E-01
+ energy ratio w/o eroded energy.   9.99996E-01
+ global x velocity..............  -3.33361E-05
+ global y velocity..............  -6.19252E-10
+ global z velocity..............  -3.91746E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1088 is controlled by shell             91 of part         1
+
+ time...........................   1.79858E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   7.36342E-04
+ internal energy................   1.99646E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.35990E-04
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.35987E-04
+ total energy / initial energy..   9.99997E-01
+ energy ratio w/o eroded energy.   9.99997E-01
+ global x velocity..............  -4.21151E-05
+ global y velocity..............  -7.47089E-10
+ global z velocity..............  -4.28038E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1149 is controlled by shell             91 of part         1
+
+ time...........................   1.89951E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.91404E-04
+ internal energy................   2.35703E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.12711E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.12711E-03
+ total energy / initial energy..   9.99997E-01
+ energy ratio w/o eroded energy.   9.99997E-01
+ global x velocity..............  -5.35021E-05
+ global y velocity..............  -8.46154E-10
+ global z velocity..............  -4.67184E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1209 is controlled by shell             91 of part         1
+
+ time...........................   1.99879E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.06569E-03
+ internal energy................   2.73577E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.33927E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.33927E-03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -6.77475E-05
+ global y velocity..............  -9.13757E-10
+ global z velocity..............  -5.08671E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1270 is controlled by shell             91 of part         1
+
+ time...........................   2.09972E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.26651E-03
+ internal energy................   3.15544E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.58206E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.58206E-03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -8.54915E-05
+ global y velocity..............   3.71432E-10
+ global z velocity..............  -5.54366E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1330 is controlled by shell             91 of part         1
+
+ time...........................   2.19900E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.48855E-03
+ internal energy................   3.61346E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.84990E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.84990E-03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -1.06713E-04
+ global y velocity..............  -6.76107E-10
+ global z velocity..............  -6.03326E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1391 is controlled by shell             91 of part         1
+
+ time...........................   2.29993E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.74042E-03
+ internal energy................   4.13493E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.15392E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.15392E-03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -1.32180E-04
+ global y velocity..............  -3.06379E-10
+ global z velocity..............  -6.56746E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1451 is controlled by shell             91 of part         1
+
+ time...........................   2.39921E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.01489E-03
+ internal energy................   4.72969E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.48786E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.48786E-03
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.61336E-04
+ global y velocity..............  -4.29314E-10
+ global z velocity..............  -7.12615E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1511 is controlled by shell             91 of part         1
+
+ time...........................   2.49849E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.31675E-03
+ internal energy................   5.43383E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.86014E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.86013E-03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -1.94806E-04
+ global y velocity..............   1.27133E-10
+ global z velocity..............  -7.71293E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1572 is controlled by shell             91 of part         1
+
+ time...........................   2.59942E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.65278E-03
+ internal energy................   6.28411E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   3.28119E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.28119E-03
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.33142E-04
+ global y velocity..............   1.38945E-09
+ global z velocity..............  -8.33973E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1632 is controlled by shell             91 of part         1
+
+ time...........................   2.69870E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.01319E-03
+ internal energy................   7.26882E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   3.74008E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.74007E-03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -2.75305E-04
+ global y velocity..............  -5.36277E-10
+ global z velocity..............  -8.99565E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1693 is controlled by shell             91 of part         1
+
+ time...........................   2.79963E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.41132E-03
+ internal energy................   8.44466E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   4.25580E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.25579E-03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -3.22407E-04
+ global y velocity..............   4.70961E-10
+ global z velocity..............  -9.70449E-02
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1753 is controlled by shell             91 of part         1
+
+ time...........................   2.89891E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.83527E-03
+ internal energy................   9.80251E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   4.81552E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.81552E-03
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -3.73093E-04
+ global y velocity..............   6.67691E-10
+ global z velocity..............  -1.04416E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1814 is controlled by shell             91 of part         1
+
+ time...........................   2.99984E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   4.30028E-03
+ internal energy................   1.14140E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   5.44169E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.44168E-03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -4.28841E-04
+ global y velocity..............  -1.27084E-09
+ global z velocity..............  -1.12373E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1874 is controlled by shell             91 of part         1
+
+ time...........................   3.09912E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   4.79217E-03
+ internal energy................   1.32478E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.11697E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.11696E-03
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -4.87789E-04
+ global y velocity..............   5.82151E-10
+ global z velocity..............  -1.20655E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1934 is controlled by shell             91 of part         1
+
+ time...........................   3.19840E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   5.31928E-03
+ internal energy................   1.53279E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.85208E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.85207E-03
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -5.51063E-04
+ global y velocity..............  -3.46569E-10
+ global z velocity..............  -1.29351E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    1995 is controlled by shell             91 of part         1
+
+ time...........................   3.29933E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   5.89247E-03
+ internal energy................   1.76791E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.66040E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.66039E-03
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -6.19747E-04
+ global y velocity..............   6.98166E-10
+ global z velocity..............  -1.38553E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2055 is controlled by shell             91 of part         1
+
+ time...........................   3.39861E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   6.49425E-03
+ internal energy................   2.02323E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.51748E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.51747E-03
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -6.91813E-04
+ global y velocity..............  -1.38997E-10
+ global z velocity..............  -1.47957E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2116 is controlled by shell             91 of part         1
+
+ time...........................   3.49954E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   7.14594E-03
+ internal energy................   2.30780E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.45375E-03
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.45374E-03
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -7.69603E-04
+ global y velocity..............  -3.88448E-09
+ global z velocity..............  -1.57873E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2176 is controlled by shell             91 of part         1
+
+ time...........................   3.59882E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   7.82741E-03
+ internal energy................   2.61296E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.04404E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.04404E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -8.50806E-04
+ global y velocity..............  -1.51972E-09
+ global z velocity..............  -1.67973E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2237 is controlled by shell             91 of part         1
+
+ time...........................   3.69975E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.56286E-03
+ internal energy................   2.94940E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.15123E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.15123E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -9.37904E-04
+ global y velocity..............  -4.39202E-09
+ global z velocity..............  -1.78614E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2297 is controlled by shell             91 of part         1
+
+ time...........................   3.79903E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   9.32997E-03
+ internal energy................   3.30728E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.26373E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.26373E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.02822E-03
+ global y velocity..............  -1.52816E-09
+ global z velocity..............  -1.89347E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2358 is controlled by shell             91 of part         1
+
+ time...........................   3.89996E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.01565E-02
+ internal energy................   3.69857E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.38550E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.38550E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.12487E-03
+ global y velocity..............  -1.70869E-09
+ global z velocity..............  -2.00508E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2418 is controlled by shell             91 of part         1
+
+ time...........................   3.99923E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.10177E-02
+ internal energy................   4.10841E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.51261E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.51261E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.22457E-03
+ global y velocity..............   3.60630E-09
+ global z velocity..............  -2.11793E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2478 is controlled by shell             91 of part         1
+
+ time...........................   4.09851E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.19295E-02
+ internal energy................   4.54045E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.64700E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.64700E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.32900E-03
+ global y velocity..............   4.47593E-09
+ global z velocity..............  -2.23452E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2539 is controlled by shell             91 of part         1
+
+ time...........................   4.19944E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.29115E-02
+ internal energy................   4.99891E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.79105E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.79104E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.43994E-03
+ global y velocity..............  -8.72138E-10
+ global z velocity..............  -2.35723E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2599 is controlled by shell             91 of part         1
+
+ time...........................   4.29872E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.39346E-02
+ internal energy................   5.46608E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   1.94006E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   1.94006E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.55385E-03
+ global y velocity..............  -3.84283E-09
+ global z velocity..............  -2.48231E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2660 is controlled by shell             91 of part         1
+
+ time...........................   4.39965E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.50361E-02
+ internal energy................   5.95696E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.09931E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.09931E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.67413E-03
+ global y velocity..............  -2.74552E-09
+ global z velocity..............  -2.61444E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2720 is controlled by shell             91 of part         1
+
+ time...........................   4.49893E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.61838E-02
+ internal energy................   6.45276E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.26365E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.26365E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.79722E-03
+ global y velocity..............  -8.89160E-10
+ global z velocity..............  -2.74931E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2781 is controlled by shell             91 of part         1
+
+ time...........................   4.59986E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.74194E-02
+ internal energy................   6.96564E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.43851E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.43851E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.92724E-03
+ global y velocity..............   9.07099E-09
+ global z velocity..............  -2.89090E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2841 is controlled by shell             91 of part         1
+
+ time...........................   4.69914E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   1.87064E-02
+ internal energy................   7.47514E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.61816E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.61816E-02
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -2.06000E-03
+ global y velocity..............   6.08243E-09
+ global z velocity..............  -3.03457E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2901 is controlled by shell             91 of part         1
+
+ time...........................   4.79842E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.00683E-02
+ internal energy................   7.98872E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   2.80570E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   2.80570E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.19762E-03
+ global y velocity..............   6.25234E-09
+ global z velocity..............  -3.18200E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    2962 is controlled by shell             91 of part         1
+
+ time...........................   4.89935E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.15336E-02
+ internal energy................   8.51503E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   3.00486E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.00486E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.34242E-03
+ global y velocity..............   2.10971E-09
+ global z velocity..............  -3.33615E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3022 is controlled by shell             91 of part         1
+
+ time...........................   4.99863E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.30584E-02
+ internal energy................   9.03650E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   3.20950E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.20949E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.48997E-03
+ global y velocity..............  -5.73940E-10
+ global z velocity..............  -3.49260E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3083 is controlled by shell             91 of part         1
+
+ time...........................   5.09956E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.46569E-02
+ internal energy................   9.56872E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   3.42257E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.42257E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.64395E-03
+ global y velocity..............  -2.94663E-10
+ global z velocity..............  -3.65472E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3143 is controlled by shell             91 of part         1
+
+ time...........................   5.19884E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.62358E-02
+ internal energy................   1.00837E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   3.63195E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.63195E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.79061E-03
+ global y velocity..............   8.82113E-09
+ global z velocity..............  -3.81462E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3204 is controlled by shell             91 of part         1
+
+ time...........................   5.29977E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.78477E-02
+ internal energy................   1.05915E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   3.84393E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   3.84392E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.94012E-03
+ global y velocity..............   1.88021E-08
+ global z velocity..............  -3.97740E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3264 is controlled by shell             91 of part         1
+
+ time...........................   5.39905E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   2.94410E-02
+ internal energy................   1.10692E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   4.05102E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.05102E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -3.08401E-03
+ global y velocity..............   1.48926E-08
+ global z velocity..............  -4.13817E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3325 is controlled by shell             91 of part         1
+
+ time...........................   5.49998E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.10701E-02
+ internal energy................   1.15241E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   4.25942E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.25942E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -3.22742E-03
+ global y velocity..............   2.42580E-09
+ global z velocity..............  -4.30232E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3385 is controlled by shell             91 of part         1
+
+ time...........................   5.59926E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.26835E-02
+ internal energy................   1.19329E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   4.46164E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.46164E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -3.36880E-03
+ global y velocity..............  -4.72231E-09
+ global z velocity..............  -4.46493E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3445 is controlled by shell             91 of part         1
+
+ time...........................   5.69854E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.43099E-02
+ internal energy................   1.22981E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   4.66081E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.66080E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -3.50547E-03
+ global y velocity..............  -5.36127E-10
+ global z velocity..............  -4.62677E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3506 is controlled by shell             91 of part         1
+
+ time...........................   5.79947E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.59788E-02
+ internal energy................   1.26213E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   4.86002E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   4.86002E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -3.64767E-03
+ global y velocity..............   1.46095E-08
+ global z velocity..............  -4.78966E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3566 is controlled by shell             91 of part         1
+
+ time...........................   5.89875E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.76382E-02
+ internal energy................   1.28862E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   5.05245E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.05245E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -3.78398E-03
+ global y velocity..............   1.14665E-08
+ global z velocity..............  -4.94940E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3627 is controlled by shell             91 of part         1
+
+ time...........................   5.99968E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   3.93458E-02
+ internal energy................   1.30968E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   5.24426E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.24426E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -3.92699E-03
+ global y velocity..............   5.84078E-09
+ global z velocity..............  -5.11231E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3687 is controlled by shell             91 of part         1
+
+ time...........................   6.09896E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   4.10477E-02
+ internal energy................   1.32397E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   5.42874E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.42873E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -4.06884E-03
+ global y velocity..............   3.68464E-09
+ global z velocity..............  -5.27289E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3748 is controlled by shell             91 of part         1
+
+ time...........................   6.19989E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   4.28022E-02
+ internal energy................   1.33165E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   5.61188E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.61187E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -4.21787E-03
+ global y velocity..............  -8.10156E-09
+ global z velocity..............  -5.43609E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3808 is controlled by shell             91 of part         1
+
+ time...........................   6.29917E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   4.45532E-02
+ internal energy................   1.33258E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   5.78790E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.78790E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -4.37276E-03
+ global y velocity..............  -6.17369E-09
+ global z velocity..............  -5.59676E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3868 is controlled by shell             91 of part         1
+
+ time...........................   6.39844E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   4.63301E-02
+ internal energy................   1.32669E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   5.95970E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   5.95969E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -4.53428E-03
+ global y velocity..............  -9.32161E-09
+ global z velocity..............  -5.75753E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3929 is controlled by shell             91 of part         1
+
+ time...........................   6.49938E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   4.81636E-02
+ internal energy................   1.31316E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.12952E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.12952E-02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -4.71491E-03
+ global y velocity..............  -2.57209E-10
+ global z velocity..............  -5.92057E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    3989 is controlled by shell             91 of part         1
+
+ time...........................   6.59865E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   4.99934E-02
+ internal energy................   1.29216E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.29150E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.29150E-02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -4.90413E-03
+ global y velocity..............   1.17972E-08
+ global z velocity..............  -6.07990E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4050 is controlled by shell             91 of part         1
+
+ time...........................   6.69959E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   5.18791E-02
+ internal energy................   1.26316E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.45108E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.45108E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -5.11857E-03
+ global y velocity..............  -3.63170E-09
+ global z velocity..............  -6.23910E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4110 is controlled by shell             91 of part         1
+
+ time...........................   6.79886E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   5.37571E-02
+ internal energy................   1.22753E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.60324E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.60324E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -5.34832E-03
+ global y velocity..............  -2.00509E-08
+ global z velocity..............  -6.39286E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4171 is controlled by shell             91 of part         1
+
+ time...........................   6.89980E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   5.56865E-02
+ internal energy................   1.18443E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.75308E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.75308E-02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -5.60838E-03
+ global y velocity..............  -3.22377E-08
+ global z velocity..............  -6.54701E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4231 is controlled by shell             91 of part         1
+
+ time...........................   6.99907E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   5.76000E-02
+ internal energy................   1.13580E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   6.89581E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   6.89581E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -5.89274E-03
+ global y velocity..............  -2.05903E-08
+ global z velocity..............  -6.69560E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4291 is controlled by shell             91 of part         1
+
+ time...........................   7.09835E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   5.95245E-02
+ internal energy................   1.08152E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.03397E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.03396E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -6.20470E-03
+ global y velocity..............  -3.09199E-09
+ global z velocity..............  -6.83969E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4352 is controlled by shell             91 of part         1
+
+ time...........................   7.19928E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   6.14861E-02
+ internal energy................   1.02124E-02
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.16985E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.16985E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -6.55781E-03
+ global y velocity..............  -1.18873E-09
+ global z velocity..............  -6.98039E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4412 is controlled by shell             91 of part         1
+
+ time...........................   7.29856E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   6.34142E-02
+ internal energy................   9.57706E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.29914E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.29913E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -6.93500E-03
+ global y velocity..............  -6.72084E-10
+ global z velocity..............  -7.11409E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4473 is controlled by shell             91 of part         1
+
+ time...........................   7.39949E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   6.53654E-02
+ internal energy................   8.89377E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.42592E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.42592E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -7.35878E-03
+ global y velocity..............  -3.02649E-08
+ global z velocity..............  -7.24554E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4533 is controlled by shell             91 of part         1
+
+ time...........................   7.49877E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   6.72675E-02
+ internal energy................   8.19077E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.54584E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.54583E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -7.80844E-03
+ global y velocity..............  -3.69831E-08
+ global z velocity..............  -7.37022E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4594 is controlled by shell             91 of part         1
+
+ time...........................   7.59970E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   6.91752E-02
+ internal energy................   7.45394E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.66291E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.66291E-02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -8.30412E-03
+ global y velocity..............  -3.24443E-08
+ global z velocity..............  -7.49204E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4654 is controlled by shell             91 of part         1
+
+ time...........................   7.69898E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   7.10171E-02
+ internal energy................   6.71821E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.77354E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.77353E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -8.82644E-03
+ global y velocity..............  -1.58218E-08
+ global z velocity..............  -7.60623E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4715 is controlled by shell             91 of part         1
+
+ time...........................   7.79991E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   7.28461E-02
+ internal energy................   5.96814E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.88143E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.88142E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -9.38999E-03
+ global y velocity..............   1.01058E-08
+ global z velocity..............  -7.71652E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4775 is controlled by shell             91 of part         1
+
+ time...........................   7.89919E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   7.45933E-02
+ internal energy................   5.23587E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   7.98292E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   7.98291E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -9.98008E-03
+ global y velocity..............  -9.22225E-09
+ global z velocity..............  -7.81949E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4835 is controlled by shell             91 of part         1
+
+ time...........................   7.99847E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   7.62804E-02
+ internal energy................   4.51832E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.07988E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.07988E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.05945E-02
+ global y velocity..............  -1.94503E-08
+ global z velocity..............  -7.91560E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4896 is controlled by shell             91 of part         1
+
+ time...........................   8.09940E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   7.79254E-02
+ internal energy................   3.81427E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.17397E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.17396E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.12485E-02
+ global y velocity..............  -2.83350E-08
+ global z velocity..............  -8.00540E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    4956 is controlled by shell             91 of part         1
+
+ time...........................   8.19868E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   7.94660E-02
+ internal energy................   3.15734E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.26234E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.26233E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.19095E-02
+ global y velocity..............  -1.97217E-08
+ global z velocity..............  -8.08644E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5017 is controlled by shell             91 of part         1
+
+ time...........................   8.29961E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.09458E-02
+ internal energy................   2.53613E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.34820E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.34819E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.26050E-02
+ global y velocity..............   4.41301E-09
+ global z velocity..............  -8.16312E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5077 is controlled by shell             91 of part         1
+
+ time...........................   8.39889E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.23095E-02
+ internal energy................   1.97868E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.42882E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.42882E-02
+ total energy / initial energy..   1.00000E+00
+ energy ratio w/o eroded energy.   1.00000E+00
+ global x velocity..............  -1.33050E-02
+ global y velocity..............   1.17593E-08
+ global z velocity..............  -8.23254E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5138 is controlled by shell             91 of part         1
+
+ time...........................   8.49982E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.35964E-02
+ internal energy................   1.47373E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.50702E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.50702E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.40280E-02
+ global y velocity..............   1.85006E-08
+ global z velocity..............  -8.29644E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5198 is controlled by shell             91 of part         1
+
+ time...........................   8.59910E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.47590E-02
+ internal energy................   1.04483E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.58039E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.58038E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.47508E-02
+ global y velocity..............   9.22148E-09
+ global z velocity..............  -8.35280E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5258 is controlled by shell             91 of part         1
+
+ time...........................   8.69837E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.58148E-02
+ internal energy................   6.88282E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.65032E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.65031E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.54747E-02
+ global y velocity..............  -1.02523E-10
+ global z velocity..............  -8.40293E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5319 is controlled by shell             91 of part         1
+
+ time...........................   8.79931E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.67757E-02
+ internal energy................   4.02428E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.71782E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.71781E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.62185E-02
+ global y velocity..............   3.84179E-09
+ global z velocity..............  -8.44863E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5379 is controlled by shell             91 of part         1
+
+ time...........................   8.89858E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.76082E-02
+ internal energy................   1.97762E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.78060E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.78060E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.69459E-02
+ global y velocity..............   1.68826E-08
+ global z velocity..............  -8.48863E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5440 is controlled by shell             91 of part         1
+
+ time...........................   8.99952E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.83394E-02
+ internal energy................   6.88186E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.84084E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.84083E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.76829E-02
+ global y velocity..............   3.92563E-08
+ global z velocity..............  -8.52334E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5500 is controlled by shell             91 of part         1
+
+ time...........................   9.09879E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.89462E-02
+ internal energy................   1.97460E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.89661E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.89659E-02
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -1.83956E-02
+ global y velocity..............   3.93939E-08
+ global z velocity..............  -8.55114E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5561 is controlled by shell             91 of part         1
+
+ time...........................   9.19973E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.94507E-02
+ internal energy................   4.67894E-05
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.94976E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.94975E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.91051E-02
+ global y velocity..............   2.51983E-08
+ global z velocity..............  -8.57312E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5621 is controlled by shell             91 of part         1
+
+ time...........................   9.29900E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.98390E-02
+ internal energy................   1.45695E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   8.99848E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   8.99847E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -1.97879E-02
+ global y velocity..............   1.22608E-08
+ global z velocity..............  -8.58876E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5682 is controlled by shell             91 of part         1
+
+ time...........................   9.39994E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   9.01280E-02
+ internal energy................   3.14590E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.04427E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.04426E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.04525E-02
+ global y velocity..............   7.37315E-09
+ global z velocity..............  -8.59708E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5742 is controlled by shell             91 of part         1
+
+ time...........................   9.49921E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   9.03127E-02
+ internal energy................   5.42369E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.08552E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.08551E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.10795E-02
+ global y velocity..............   2.18915E-08
+ global z velocity..............  -8.59717E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5802 is controlled by shell             91 of part         1
+
+ time...........................   9.59849E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   9.04042E-02
+ internal energy................   8.24627E-04
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.12290E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.12288E-02
+ total energy / initial energy..   9.99999E-01
+ energy ratio w/o eroded energy.   9.99999E-01
+ global x velocity..............  -2.16702E-02
+ global y velocity..............   2.88541E-08
+ global z velocity..............  -8.59057E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5863 is controlled by shell             91 of part         1
+
+ time...........................   9.69942E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   9.04078E-02
+ internal energy................   1.15973E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.15677E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.15676E-02
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -2.22405E-02
+ global y velocity..............   3.52416E-08
+ global z velocity..............  -8.57774E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5923 is controlled by shell             91 of part         1
+
+ time...........................   9.79870E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   9.03298E-02
+ internal energy................   1.52826E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.18582E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.18580E-02
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -2.27644E-02
+ global y velocity..............   2.46128E-08
+ global z velocity..............  -8.55978E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    5984 is controlled by shell             91 of part         1
+
+ time...........................   9.89963E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   9.01741E-02
+ internal energy................   1.93369E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.21079E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.21078E-02
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -2.32578E-02
+ global y velocity..............   5.89040E-09
+ global z velocity..............  -8.53557E-01
+ time per zone cycle.(nanosec)..             0
+
+
+ dt of cycle    6044 is controlled by shell             91 of part         1
+
+ time...........................   9.99891E+00
+ time step......................   1.65463E-03
+ kinetic energy.................   8.99526E-02
+ internal energy................   2.35409E-03
+ spring and damper energy.......   1.00000E-20
+ system damping energy..........   0.00000E+00
+ sliding interface energy.......   0.00000E+00
+ external work..................   9.23068E-02
+ eroded kinetic energy..........   0.00000E+00
+ eroded internal energy.........   0.00000E+00
+ eroded hourglass energy........   0.00000E+00
+ total energy...................   9.23067E-02
+ total energy / initial energy..   9.99998E-01
+ energy ratio w/o eroded energy.   9.99998E-01
+ global x velocity..............  -2.37022E-02
+ global y velocity..............  -2.70348E-09
+ global z velocity..............  -8.50542E-01
+ time per zone cycle.(nanosec)..             0
